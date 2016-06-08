@@ -1,5 +1,6 @@
 # SmartPlantKit
- Sogang University 2016-06-08 Capstone Design I
+ Sogang University 2016-06-08 Capstone Design I - Team Full Stack
+         Member : Kwak Jaehoon, Lee Jaehwan, Park Minseung, Kim Saeyoung ( all is Computer Science major )
  
   IoT Project - Smart Plant Kit Code ( http://www.slideshare.net/JaeHoonKwak/fullstack-sogang-univ )
   
